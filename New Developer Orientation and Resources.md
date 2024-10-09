@@ -4,10 +4,10 @@ Hello, and welcome to **Cleavr**! We’re thrilled to have you on board as part 
 
 Here is a comprehensive **Developer Onboarding Wiki** to guide you through everything you need to know about our workflows, processes, tools, and culture. This will serve as your one-stop resource for all things related to development at **Cleavr**.
 
-## What You'll Find in This Wiki:
+## What You'll Find in This Wiki
 
 - [**Company Overview**](resources/1.%20Company%20Overview.md): Learn about our mission, vision, and the exciting projects we’re building.
-- **Team Structure & Communication**: Understand who you’ll be working with, the tools we use to communicate, and best practices for team collaboration.
+- [**Team Structure & Communication**](resources/2.%20Team%20Structure%20&%20Communication.md): Understand who you’ll be working with, the tools we use to communicate, and best practices for team collaboration.
 - **Development Environment Setup**: Step-by-step instructions for getting your local environment up and running, including how to configure your development tools.
 - **Version Control with Git**: Our Git branching strategy, pull request process, and guidelines for committing code.
 - **Code Style & Best Practices**: A guide to our coding standards and best practices to ensure consistency across our codebase.
@@ -17,7 +17,7 @@ Here is a comprehensive **Developer Onboarding Wiki** to guide you through every
 - **Security & Compliance**: Important guidelines for keeping our systems and customer data safe.
 - **Learning & Growth**: Resources and suggestions for continuing your professional development as a part of the team.
 
-## How to Use This Wiki:
+## How to Use This Wiki
 
 - **Start with the Basics**: We recommend starting with the Company Overview and Team Structure to familiarize yourself with the bigger picture.
 - **Bookmark Key Sections**: As you work through the material, feel free to bookmark sections that are especially useful, like Development Setup or Project Workflow, for easy reference later.
