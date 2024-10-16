@@ -8,6 +8,6 @@ To get started, please refer to the [New Developer Orientation and Resources](Ne
 
 ## Contributing
 
-We welcome contributions from all team members. Please follow the guidelines in the [Contributing](docs/Contributing.md) document to ensure a smooth collaboration process.
+We welcome contributions from all team members. Please create a new PR with your suggested changes and tag the HEad of Development for a review.
 
 Happy coding!
