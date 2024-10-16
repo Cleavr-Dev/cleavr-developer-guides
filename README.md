@@ -8,6 +8,6 @@ To get started, please refer to the [New Developer Orientation and Resources](Ne
 
 ## Contributing
 
-We welcome contributions from all team members. Please create a new PR with your suggested changes and tag the HEad of Development for a review.
+We welcome contributions from all team members. Please create a new PR with your suggested changes and tag the Head of Development for a review.
 
 Happy coding!
